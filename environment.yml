@@ -1,0 +1,12 @@
+name: case_study
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy
+  - wget
+  - pip
+  - numpy
+  - matplotlib
+  - scikit-learn
